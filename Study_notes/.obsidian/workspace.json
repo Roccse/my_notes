@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "222c1dd00084ccd5",
+    "id": "770587b1e52f7a37",
     "type": "split",
     "children": [
       {
-        "id": "29c3da4476ff109c",
+        "id": "6a46529f97ff09a5",
         "type": "tabs",
         "children": [
           {
-            "id": "59998d7c22430880",
+            "id": "3c09b23fec1ae366",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "39f9298474be8fca",
+    "id": "0f46e74790b2649d",
     "type": "split",
     "children": [
       {
-        "id": "2f3bfa160d73eaed",
+        "id": "4d6ce671d3ec2f40",
         "type": "tabs",
         "children": [
           {
-            "id": "cdebd49c97c01384",
+            "id": "8cdecb2308e871c3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "4570951bb19b9151",
+            "id": "8daad3bdc1d6e6fd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6aaa2c165cf75f58",
+            "id": "c62948d427860820",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "c5156c6cbd4e755e",
+    "id": "8b3f81e87bae7daa",
     "type": "split",
     "children": [
       {
-        "id": "164b884fd3777e65",
+        "id": "d7f2c5a28543ace8",
         "type": "tabs",
         "children": [
           {
-            "id": "05ed00c838d23a36",
+            "id": "71f3d83bdd96deb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "33d05c09faa1662f",
+            "id": "c70ee3d19226eb9d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "9ddd365e2dfce206",
+            "id": "b11d245442585bbd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "5e34f6e14465f355",
+            "id": "aa9e751a90efe10c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +145,7 @@
             }
           },
           {
-            "id": "b4ce67879ebbaeaa",
+            "id": "ff255b75f9fdff3c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,12 +176,8 @@
       "bases:新建数据库": false
     }
   },
-  "active": "59998d7c22430880",
+  "active": "3c09b23fec1ae366",
   "lastOpenFiles": [
-    "Hermes Agent 架构.md",
-    "Tool Calling 机制.md",
-    "Git 基础.md",
-    "FastAPI 入门.md",
-    "微信 iLink Bot 工作原理.md"
+    "欢迎.md"
   ]
 }
