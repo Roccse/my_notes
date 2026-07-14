@@ -11,10 +11,14 @@
             "id": "59998d7c22430880",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Tool Calling 机制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tool Calling 机制"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "59998d7c22430880",
   "lastOpenFiles": [
+    "api_main.py",
     "Hermes Agent 架构.md",
     "Tool Calling 机制.md",
     "Git 基础.md",
